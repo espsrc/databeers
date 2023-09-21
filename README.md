@@ -1,4 +1,4 @@
-# CFP - IA Beers Event - 1st IA Conference Andalucía :heart: Granada, Spain
+# CFP - AI Beers Event - 1st AI Conference Andalucía :heart: Grananda
 
 ![imagen](https://github.com/espsrc/iabeers/assets/7033451/bcbdb351-47f4-47e2-998f-e376c140e954)
 
@@ -52,12 +52,12 @@ A certificate of attendance/presentation will be available for those attending t
 
 ## Important Dates:
 
-- Abstract Submission Deadline: November 1st.
-- Notification of Acceptance: November, 5th.
+- Abstract Submission Deadline: October, 21st.
+- Notification of Acceptance: October, 25th.
 
 ##  We look forward to seeing you!
 
-Join us in Granada in this 1st IA Congress - Andalucía, where AI innovation meets historic charm. Let's shape the future of AI together!
+Join us in Granada in this 1st AI Congress - Andalucía, where AI innovation meets historic charm. Let's shape the future of AI together!
 
 For questions and inquiries, contact with us:
 - Laura Darriba - ldarriba@iaa.es,
