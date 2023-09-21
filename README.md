@@ -62,5 +62,5 @@ Join us in Granada in this 1st IA Congress - Andalucía, where AI innovation mee
 For questions and inquiries, contact with us:
 - Laura Darriba - ldarriba@iaa.es,
 - Manuel Parra-Royón - mparra@iaa.es,
-- JJ Merelo - jmerelo@ugr.es,
+- JJ Merelo - jjmerelo@ugr.es,
 - Javier Viñales - javigu@gmail.com 
