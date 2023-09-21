@@ -21,7 +21,7 @@ We welcome abstract submissions of up to 200 words, not including the title and 
 ## Submission process and selection criteria:
 
 - Fork this repository https://github.com/espsrc/aibeers
-- Create a new file within the folder `talks` named `<your_name>.md` and include your abstract fllowing the template provided [here](./talks/README.md) (title, authors, presenter, and the abstract).
+- Create a new file within the folder `talks` named `<your_name>.md` and include your abstract fllowing the template provided [here](talks/README.md) (title, authors, presenter, and the abstract).
 - Make a Pull Request (PR) to submit your abstract.
 
 Each proposal will be evaluated by two or more referees. Acceptance will be based on the significance, novelty, and potential impact of the work. If your abstract is accepted your talk will be part of the event and merged to the main repository as accepted talk.
