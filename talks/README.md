@@ -16,8 +16,8 @@ AI-powered open science has the potential to revolutionize the way we do science
 
 ## References
 
-[1] Kinney, J. B., Anastasiades, P., Erosheva, E., Chiang, M., & Wilbur, W. J. (2017). The semantic scholar open data platform. In Proceedings of the 26th international conference on world wide web (pp. 111-120).
-[2] Mons, B., Van Noorden, R., & van Balen, V. (2018). Opportunities in open science with AI. Frontiers in Digital Humanities, 5, 26.
+- [1] Kinney, J. B., Anastasiades, P., Erosheva, E., Chiang, M., & Wilbur, W. J. (2017). The semantic scholar open data platform. In Proceedings of the 26th international conference on world wide web (pp. 111-120).
+- [2] Mons, B., Van Noorden, R., & van Balen, V. (2018). Opportunities in open science with AI. Frontiers in Digital Humanities, 5, 26.
 
 ## Extra material
 
