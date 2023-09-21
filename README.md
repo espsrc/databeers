@@ -12,7 +12,7 @@ Artificial Intelligence (AI) has emerged as a transformative force, shaping indu
 - Location: Palacio de Congresos de Granada, Granada, Andalucía, Spain
 - Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
 - Hours of the event: TBA.
-- Event Repository: https://github.com/espSRC/aibeers
+- Event Repository: https://github.com/espsrc/aibeers
 
 ## Call for Abstracts: 
 
@@ -20,7 +20,7 @@ We welcome abstract submissions of up to 200 words, not including the title and 
 
 ## Submission process and selection criteria:
 
-- Fork this repository https://github.com/espSRC/aibeers
+- Fork this repository https://github.com/espsrc/aibeers
 - Create a new file within the folder `talks` named `<your_name>.md` and include your abstract in a new file, following the template provided here (title, authors, presenter, and the abstract).
 - Make a Pull Request (PR) to submit your abstract.
 
