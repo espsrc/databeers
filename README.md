@@ -1,4 +1,4 @@
-# CFP - IA Beers Event - 1st IA Conference Andalucía :heart: Grananda
+# CFP - IA Beers Event - 1st IA Conference Andalucía :heart: Granada, Spain
 
 ![imagen](https://github.com/espsrc/iabeers/assets/7033451/bcbdb351-47f4-47e2-998f-e376c140e954)
 
