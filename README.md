@@ -3,7 +3,7 @@
 ![imagen](https://github.com/espsrc/iabeers/assets/7033451/bcbdb351-47f4-47e2-998f-e376c140e954)
 
 
-Artificial Intelligence (AI) has emerged as a transformative force, shaping industries and revolutionising how we approach problems. Its applications span from healthcare and finance to autonomous vehicles, computer vision, natural language processing among others. We invite researchers, enthusiasts,  and companies to showcase their cutting-edge AI developments at our singular AI event within one of the tracks of the 1st Conference of AI - Andalucia, that will be celebrated in Granada, Spain, November 15-16, 2023, at the Palacio de Congresos.
+Artificial Intelligence (AI) has emerged as a transformative force, shaping industries and revolutionising how we approach problems. Its applications span from healthcare and finance to autonomous vehicles, computer vision, natural language processing among others. We invite researchers, enthusiasts,  and companies to showcase their cutting-edge AI developments at our singular AI event within one of the tracks of the 1st Conference of AI - Andalucia, that will be celebrated in Granada, Spain, November 22 - 23, 2023, at the Palacio de Congresos.
 
 ## Event Highlights:
 - :calendar: Date: November 22 - 23, 2023
