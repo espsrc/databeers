@@ -1,6 +1,6 @@
-# CFP - AI Beers Event - 1st AI Conference Andalucía :heart: Grananda
+# CFP - Databeers Event - 1st AI Conference Andalucía :heart: Grananda
 
-![imagen](https://github.com/espsrc/iabeers/assets/7033451/bcbdb351-47f4-47e2-998f-e376c140e954)
+![imagen](https://github.com/espsrc/databeers/assets/7033451/bcbdb351-47f4-47e2-998f-e376c140e954)
 
 
 Artificial Intelligence (AI) has emerged as a transformative force, shaping industries and revolutionising how we approach problems. Its applications span from healthcare and finance to autonomous vehicles, computer vision, natural language processing among others. We invite researchers, enthusiasts,  and companies to showcase their cutting-edge AI developments at our singular AI event within one of the tracks of the 1st Conference of AI - Andalucia, that will be celebrated in Granada, Spain, November 22 - 23, 2023, at the Palacio de Congresos.
@@ -12,7 +12,7 @@ Artificial Intelligence (AI) has emerged as a transformative force, shaping indu
 - :pushpin: Location: Circular Zone at the Palacio de Congresos de Granada, Granada, Andalucía, Spain
 - :bar_chart: Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
 - :hourglass_flowing_sand: Hours of the event: 12-2pm and 4-6pm (TBC)
-- :octocat: Event Repository: https://github.com/espsrc/aibeers
+- :octocat: Event Repository: https://github.com/espsrc/databeers
 
 ## Call for Abstracts: 
 
@@ -20,7 +20,7 @@ We welcome abstract submissions of up to 200 words, not including the title and 
 
 ## Submission process and selection criteria:
 
-- Fork this repository https://github.com/espsrc/aibeers
+- Fork this repository https://github.com/espsrc/databeers
 - Create a new file within the folder `talks` named `<your_name>.md` and include your abstract fllowing the template provided [here](talks/README.md) (title, authors, presenter, and the abstract).
 - Make a Pull Request (PR) to submit your abstract.
 
