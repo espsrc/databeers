@@ -1,4 +1,4 @@
-# CFP - Databeers Event - 1st AI Conference Andalucía :heart: Grananda
+# CFP - DataBeers Event - 1st AI Conference Andalucía :heart: Grananda
 
 ![imagen](https://github.com/espsrc/databeers/assets/22152978/392a6f83-c614-4358-9346-fe6d72328338)
 
