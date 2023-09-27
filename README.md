@@ -5,7 +5,7 @@
 
 Artificial Intelligence (AI) has emerged as a transformative force, shaping industries and revolutionising how we approach problems. Its applications span from healthcare and finance to autonomous vehicles, computer vision, natural language processing among others. We invite researchers, enthusiasts,  and companies to showcase their cutting-edge AI developments at our singular AI event within one of the tracks of the 1st Conference of AI - Andalucia, that will be celebrated in Granada, Spain, November 22 - 23, 2023, at the Palacio de Congresos.
 
-## Event Highlights:
+## Event Highlights
 - :calendar: Date: November 22 - 23, 2023
 - :mailbox: Submission deadline:  October 21st
 - :high_brightness: Notification of acceptance: October, 25th
@@ -14,11 +14,11 @@ Artificial Intelligence (AI) has emerged as a transformative force, shaping indu
 - :hourglass_flowing_sand: Hours of the event: 12-2pm and 4-6pm (TBC)
 - :octocat: Event Repository: https://github.com/espsrc/databeers
 
-## Call for Abstracts: 
+## Call for Abstracts
 
 We welcome abstract submissions of up to 200 words, not including the title and authors' affiliations. Your proposals should highlight your AI advancements, breakthroughs, innovations and applications. We encourage presenters to make their talks impressive, vibrant, and fun. 
 
-## Submission process and selection criteria:
+## Submission process and selection criteria
 
 - Fork this repository https://github.com/espsrc/databeers
 - Create a new file within the folder `talks` named `<your_name>.md` and include your abstract following the template provided [here](talks/README.md) (title, authors, presenter, and the abstract).
@@ -29,11 +29,11 @@ Each proposal will be evaluated by two or more referees. Acceptance will be base
 ## Talks
 Once the proposal is accepted we will contact you to complete the necessary information for your participation as well as the logistics details.
 
-##  Certificates of attendance/presentation.
+##  Certificates of attendance/presentation
 A certificate of attendance/presentation will be available for those attending the event and for those presenting their proposals.
 
 
-## Topics of Interest (but not limited to):
+## Topics of Interest (but not limited to)
 
 - Machine Learning and Deep Learning
 - Natural Language Processing
@@ -50,7 +50,7 @@ A certificate of attendance/presentation will be available for those attending t
 - Machine Learning Operations
 
 
-## Important Dates:
+## Important Dates
 
 - Abstract Submission Deadline: October, 21st.
 - Notification of Acceptance: October, 25th.
