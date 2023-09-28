@@ -6,13 +6,13 @@
 Artificial Intelligence (AI) has emerged as a transformative force, shaping industries and revolutionising how we approach problems. Its applications span from healthcare and finance to autonomous vehicles, computer vision, natural language processing among others. We invite researchers, enthusiasts,  and companies to showcase their cutting-edge AI developments at our singular AI event within one of the tracks of the 1st Conference of AI - Andalucia, that will be celebrated in Granada, Spain, November 22 - 23, 2023, at the Palacio de Congresos.
 
 ## Event Highlights
-- :calendar: Date: November 22 - 23, 2023
-- :mailbox: Submission deadline:  October 21st
-- :high_brightness: Notification of acceptance: October, 25th
-- :pushpin: Location: Circular Zone at the Palacio de Congresos de Granada, Granada, Andalucía, Spain
-- :bar_chart: Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
-- :hourglass_flowing_sand: Hours of the event: 12-2pm and 4-6pm (TBC)
-- :octocat: Event Repository: https://github.com/espsrc/databeers
+- 📆 Date: November 22 - 23, 2023
+- 📫  Submission deadline:  October 21st
+- 🔆  Notification of acceptance: October, 25th
+- 📌 Location: Circular Zone at the Palacio de Congresos de Granada, Granada, Andalucía, Spain
+- 📊 Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
+- ⏳  Hours of the event: 12-2pm and 4-6pm (TBC)
+- ⚙️ Event Repository: https://github.com/espsrc/databeers
 
 ## Call for Abstracts
 
