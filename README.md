@@ -1,6 +1,8 @@
 
 
-[🇬🇧 English version](#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain)  [🇪🇸 Versión en Castellano](#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a)
+[🇬🇧 English version](#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain)  [🇪🇸 Versión en Castellano](#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a) 
+
+🔗 https://espsrc.github.io/databeers/
 
 ![imagen](https://github.com/espsrc/databeers/assets/22152978/392a6f83-c614-4358-9346-fe6d72328338)
 
