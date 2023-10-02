@@ -1,6 +1,6 @@
 
 
-🇬🇧 [English version](README.md#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain) | 🇪🇸 [Versión en Castellano](README.md#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a)
+🇬🇧 [English version](#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain) | 🇪🇸 [Versión en Castellano](#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a)
 
 ![imagen](https://github.com/espsrc/databeers/assets/22152978/392a6f83-c614-4358-9346-fe6d72328338)
 
@@ -74,7 +74,7 @@ https://twitter.com/databeersgrx?lang=en
 
 <HR>
 
-🇬🇧 [English version](README.md#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain) | 🇪🇸 [Versión en Castellano](README.md#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a)
+🇬🇧 [English version](#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain) | 🇪🇸 [Versión en Castellano](#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a)
 
 # CFP - Evento DataBeers - 1a Conferencia sobre Inteligencia Artificial de Andalucía ❤️ Granada, España
 
