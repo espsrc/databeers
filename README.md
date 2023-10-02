@@ -99,7 +99,7 @@ Presentación de resúmenes de hasta 200 palabras, sin incluir el título ni la 
 - Cree un nuevo archivo dentro de la carpeta `talks` llamado `<su_nombre>.md` e incluya tu propuesta de presentación/charla siguiendo la plantilla proporcionada [aquí](talks/README.md) (título, autores, presentador, y el resumen).
 - Haga un `Pull Request` (PR) para enviar su propuesta.
 
-Cada propuesta será evaluada por dos o más árbitros. La aceptación se basará en la importancia, novedad e impacto potencial del trabajo. Si su propuesta es aceptada, su ponencia formará parte del evento y se incorporará al repositorio principal como ponencia aceptada.
+Cada propuesta será evaluada por dos o más expertos en la materia. La aceptación se basará en la importancia, novedad e impacto potencial del trabajo. Si su propuesta es aceptada, su ponencia formará parte del evento y se incorporará al repositorio principal como ponencia aceptada.
 
 ## Charlas
 Una vez aceptada la propuesta nos pondremos en contacto contigo para completar la información necesaria para su participación así como los detalles logísticos.
