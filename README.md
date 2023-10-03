@@ -51,8 +51,8 @@ Habrá un certificado de asistencia/presentación para los asistentes al evento 
 
 ## Fechas importantes
 
-- Fecha límite de presentación de resúmenes: 21 de octubre.
-- Notificación de aceptación: 25 de octubre.
+- Fecha límite de presentación de resúmenes: 5 de noviembre.
+- Notificación de aceptación: 10 de noviembre.
 
 ## ¡Te esperamos!
 
