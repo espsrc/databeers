@@ -32,7 +32,7 @@ charlas sean impactantes, vibrantes y sobre todo muy divertidas.
 ## Proceso de presentación y criterios de selección de las propuestas
 
 - Abre
-  [https://github.com/espsrc/databeers](https://www.linkedin.com/feed/update/urn:li:activity:7113534266554105856/)
+  [https://github.com/espsrc/databeers](https://github.com/espsrc/databeers)
 - Cree un nuevo archivo dentro de la carpeta `talks` llamado `<su_nombre>.md` e
   incluya tu propuesta de presentación/charla siguiendo la plantilla
   proporcionada [aquí](talks/README.md) (título, autores, presentador, y el
