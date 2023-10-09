@@ -2,7 +2,16 @@
 
 # CFP - Evento DataBeers - 1a Conferencia sobre Inteligencia Artificial de Andalucía ❤️ Granada, España
 
-La Inteligencia Artificial (IA) se ha convertido en una fuerza transformadora que ha dado forma a las industrias y revolucionado nuestra forma de abordar los problemas. Sus aplicaciones abarcan desde la sanidad y las finanzas hasta los vehículos autónomos, la visión por ordenador y el procesamiento del lenguaje natural, entre otras. Invitamos a investigadores, entusiastas y empresas a mostrar sus desarrollos de IA de vanguardia en nuestro evento singular de IA dentro de uno de los tracks de la 1ª Conferencia de IA - Andalucía, que se celebrará en Granada, España, los días 22 y 23 de noviembre de 2023, en el Palacio de Congresos.
+La Inteligencia Artificial (IA) se ha convertido en una fuerza transformadora
+que ha dado forma a las industrias y revolucionado nuestra forma de abordar los
+problemas. Sus aplicaciones abarcan desde la sanidad y las finanzas hasta los
+vehículos autónomos, la visión por ordenador y el procesamiento del lenguaje
+natural, entre otras. Invitamos a investigadores, entusiastas y empresas a
+mostrar sus desarrollos de IA de vanguardia en nuestro evento singular de IA
+dentro de uno de los tracks de la [1ª Conferencia de IA -
+Andalucía](https://www.linkedin.com/feed/update/urn:li:activity:7113534266554105856/),
+que se celebrará en Granada, España, los días 22 y 23 de noviembre de 2023, en
+el Palacio de Congresos.
 
 ## Eventos destacados
 - 📆 Fecha: 22 y 23 de noviembre de 2023
@@ -15,12 +24,19 @@ La Inteligencia Artificial (IA) se ha convertido en una fuerza transformadora qu
 
 ## Convocatoria de propuestas para presentar en DataBeers
 
-Presentación de resúmenes de hasta 200 palabras, sin incluir el título ni la afiliación de los autores. Las propuestas deben destacar los avances, adelantos, innovaciones y aplicaciones de la IA. Animamos a los presentadores a que sus charlas sean impactantes, vibrantes y sobre todo muy divertidas. 
+Presentación de resúmenes de hasta 200 palabras, sin incluir el título ni la
+afiliación de los autores. Las propuestas deben destacar los avances, adelantos,
+innovaciones y aplicaciones de la IA. Animamos a los presentadores a que sus
+charlas sean impactantes, vibrantes y sobre todo muy divertidas.
 
 ## Proceso de presentación y criterios de selección de las propuestas
 
-- Abre este repositorio https://github.com/espsrc/databeers
-- Cree un nuevo archivo dentro de la carpeta `talks` llamado `<su_nombre>.md` e incluya tu propuesta de presentación/charla siguiendo la plantilla proporcionada [aquí](talks/README.md) (título, autores, presentador, y el resumen).
+- Abre
+  [https://github.com/espsrc/databeers](https://www.linkedin.com/feed/update/urn:li:activity:7113534266554105856/)
+- Cree un nuevo archivo dentro de la carpeta `talks` llamado `<su_nombre>.md` e
+  incluya tu propuesta de presentación/charla siguiendo la plantilla
+  proporcionada [aquí](talks/README.md) (título, autores, presentador, y el
+  resumen).
 - Haga un `Pull Request` (PR) para enviar su propuesta.
 
 Cada propuesta será evaluada por dos o más expertos en la materia. La aceptación se basará en la importancia, novedad e impacto potencial del trabajo. Si su propuesta es aceptada, su ponencia formará parte del evento y se incorporará al repositorio principal como ponencia aceptada.
@@ -79,7 +95,15 @@ https://twitter.com/databeersgrx?lang=en
 
 # CFP - DataBeers Event - 1st AI Conference Andalucía ❤️ Granada, Spain
 
-Artificial Intelligence (AI) has emerged as a transformative force, shaping industries and revolutionising how we approach problems. Its applications span from healthcare and finance to autonomous vehicles, computer vision, natural language processing among others. We invite researchers, enthusiasts,  and companies to showcase their cutting-edge AI developments at our singular AI event within one of the tracks of the 1st Conference of AI - Andalucia, that will be celebrated in Granada, Spain, November 22 - 23, 2023, at the Palacio de Congresos.
+Artificial Intelligence (AI) has emerged as a transformative force, shaping
+industries and revolutionising how we approach problems. Its applications span
+from healthcare and finance to autonomous vehicles, computer vision, natural
+language processing among others. We invite researchers, enthusiasts, and
+companies to showcase their cutting-edge AI developments at our singular AI
+event within one of the tracks of the [1st Conference on AI -
+Andalucia](https://www.linkedin.com/feed/update/urn:li:activity:7113534266554105856/),
+that will be celebrated in Granada, Spain, November 22 - 23, 2023, at the
+Palacio de Congresos.
 
 ## Event Highlights
 - 📆 Date: November 22nd - 23rd, 2023
@@ -88,7 +112,7 @@ Artificial Intelligence (AI) has emerged as a transformative force, shaping indu
 - 📌 Location: Circular Zone at the Palacio de Congresos de Granada, Granada, Andalucía, Spain
 - 📊 Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
 - ⏳  Hours of the event: 12-2pm and 4-6pm (TBC)
-- ⚙️ Event Repository: https://github.com/espsrc/databeers
+- ⚙️ [Event Repository](https://github.com/espsrc/databeers)
 
 ## Call for Abstracts
 
