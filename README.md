@@ -1,4 +1,4 @@
-[🇪🇸 Versión en Castellano](#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a) [🇬🇧 English version](#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain)  🔗 https://espsrc.github.io/databeers/
+[🇪🇸 Versión en Castellano](#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a) [🇬🇧 English version](#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain)  🔗 [https://espsrc.github.io/databeers/](https://espsrc.github.io/databeers/)
 
 # CFP - Evento DataBeers - 1a Conferencia sobre Inteligencia Artificial de Andalucía ❤️ Granada, España
 
@@ -20,7 +20,7 @@ el Palacio de Congresos.
 - 📌 Lugar: Zona circular del Palacio de Congresos de Granada, Granada, Andalucía, España.
 - 📊 Formato de presentación: 10 minutos de una charla impresionante + 5 minutos para preguntas.
 - ⏳ Horario del evento: 12-2pm y 4-6pm (TBC)
-- ⚙️ Repositorio del evento: https://github.com/espsrc/databeers
+- ⚙️ [Repositorio del evento](https://github.com/espsrc/databeers)
 
 ## Convocatoria de propuestas para presentar en DataBeers
 
@@ -82,7 +82,7 @@ Para preguntas y consultas, contacta con nosotros:
 
 ## Sigue el evento
 
-Puedes revisar las últimas actualizaciones desde la cuenta de DataBeers Granada: 
+Puedes revisar las últimas actualizaciones desde la cuenta de DataBeers Granada:
 https://twitter.com/databeersgrx?lang=en
 
 <HR>
@@ -116,7 +116,7 @@ Palacio de Congresos.
 
 ## Call for Abstracts
 
-We welcome abstract submissions of up to 200 words, not including the title and authors' affiliations. Your proposals should highlight your AI advancements, breakthroughs, innovations and applications. We encourage presenters to make their talks impressive, vibrant, and fun. 
+We welcome abstract submissions of up to 200 words, not including the title and authors' affiliations. Your proposals should highlight your AI advancements, breakthroughs, innovations and applications. We encourage presenters to make their talks impressive, vibrant, and fun.
 
 ## Submission process and selection criteria
 
@@ -166,7 +166,7 @@ For questions and inquiries, contact with us:
 - Javier Viñales - javigu@gmail.com
 
 ## Follow the event
-You can check the latest updates from the DataBeers Granada account: 
+You can check the latest updates from the DataBeers Granada account:
 https://twitter.com/databeersgrx?lang=en
 
 
