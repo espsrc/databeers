@@ -1,4 +1,4 @@
-## Using AI techniques to create hyperrealistics digital twins
+## Using AI techniques to create hyper realistic digital twins
 
 ## Authors
 
