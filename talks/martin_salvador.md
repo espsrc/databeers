@@ -1,4 +1,4 @@
-# Can AI help to reduce road accidents?  // ¿Puede la IA ayudar a reducir los accidentes de tráfico?
+# Can AI help reduce road accidents?  // ¿Puede la IA ayudar a reducir los accidentes de tráfico?
 
 ## Author
 
@@ -10,11 +10,11 @@ Manuel Martín Salvador, AI Research Engineer @ Blink Technologies
 
 ## Abstract 
 
-Approximately 1.3 million people die each year as a result of road traffic crashes. Between 20 and 50 million more people suffer non-fatal injuries, with many incurring a disability as a result of their injury [1]. Around 20% of all road accidents are fatigue-related, up to 50% on certain roads [2]. Can fatigue-related accidents be prevented using AI? Recent road safety regulations in the EU and US have paved the way for Driver Monitoring Systems (DMS) to become mandatory in all new vehicles [3]. This talk will show which are the AI components in DMS such as face detection or gaze estimation, and discuss their ethical implications.
+Approximately 1.3 million people die each year as a result of road traffic crashes. Between 20 and 50 million more people suffer non-fatal injuries, with many incurring a disability as a result of their injury [1]. Around 20% of all road accidents are fatigue-related, up to 50% on certain roads [2]. Can fatigue-related accidents be prevented using AI? Recent road safety regulations in the EU and US have paved the way for Driver Monitoring Systems (DMS) to become mandatory in all new vehicles [3]. This talk will present which are the AI components in DMS such as face detection or gaze estimation, and discuss their ethical implications.
 
 ## Resumen
 
-Aproximadamente 1.3 millones de personas mueren cada año como consecuencia de los accidentes de tráfico. Entre 20 y 50 millones de personas más sufren lesiones no mortales, y muchas de ellas quedan discapacitadas a causa de sus lesiones [1]. Alrededor del 20% de todos los accidentes de carretera están relacionados con la fatiga en la conducción, llegando hasta el 50% en ciertas carreteras [2]. ¿Pueden prevenirse los accidentes relacionados con la fatiga utilizando inteligencia artificial (IA)? Las recientes regulaciones de seguridad vial en la Unión Europea y Estados Unidos han allanado el camino para que los Sistemas de Monitoreo del Conductor (DMS, por sus siglas en inglés) sean obligatorios en todos los vehículos nuevos [3]. Esta charla mostrará cuáles son los componentes de IA en los DMS, tales como la detección facial o la estimación de la mirada, y discutirá sus implicaciones éticas.
+Aproximadamente 1.3 millones de personas mueren cada año como consecuencia de los accidentes de tráfico. Entre 20 y 50 millones de personas más sufren lesiones no mortales, y muchas de ellas quedan discapacitadas a causa de sus lesiones [1]. Alrededor del 20% de todos los accidentes de carretera están relacionados con la fatiga en la conducción, llegando hasta el 50% en ciertas carreteras [2]. ¿Pueden prevenirse los accidentes relacionados con la fatiga utilizando inteligencia artificial (IA)? Las recientes regulaciones de seguridad vial en la Unión Europea y Estados Unidos han allanado el camino para que los Sistemas de Monitoreo del Conductor (DMS, por sus siglas en inglés) sean obligatorios en todos los vehículos nuevos [3]. En esta charla veremos cuáles son los componentes de IA en los DMS, tales como la detección facial o la estimación de la mirada, y discutiremos sus implicaciones éticas.
 
 ## References
 
