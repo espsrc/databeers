@@ -8,14 +8,13 @@ problemas. Sus aplicaciones abarcan desde la sanidad y las finanzas hasta los
 vehículos autónomos, la visión por ordenador y el procesamiento del lenguaje
 natural, entre otras. Invitamos a investigadores, entusiastas y empresas a
 mostrar sus desarrollos de IA de vanguardia en nuestro evento singular de IA
-dentro de uno de los tracks de la [1ª Conferencia de IA -
-Andalucía](https://www.linkedin.com/feed/update/urn:li:activity:7113534266554105856/),
+dentro de uno de los tracks del [I Congreso de IA de Andalucía](https://juntadeandalucia.es/congresoIA/),
 que se celebrará en Granada, España, los días 22 y 23 de noviembre de 2023, en
 el Palacio de Congresos.
 
 ## Eventos destacados
 - 📆 Fecha: 22 y 23 de noviembre de 2023
-- 📫 Fecha límite de presentación de propuestas: 5 de noviembre
+- 📫 Fecha límite de presentación de propuestas: 6 de noviembre
 - 🔆 Notificación de aceptación: 10 de noviembre
 - 📌 Lugar: Zona circular del Palacio de Congresos de Granada, Granada, Andalucía, España.
 - 📊 Formato de presentación: 10 minutos de una charla impresionante + 5 minutos para preguntas.
@@ -100,14 +99,13 @@ industries and revolutionising how we approach problems. Its applications span
 from healthcare and finance to autonomous vehicles, computer vision, natural
 language processing among others. We invite researchers, enthusiasts, and
 companies to showcase their cutting-edge AI developments at our singular AI
-event within one of the tracks of the [1st Conference on AI -
-Andalucia](https://www.linkedin.com/feed/update/urn:li:activity:7113534266554105856/),
+event within one of the tracks of the [I Congreso de IA de Andalucía](https://juntadeandalucia.es/congresoIA/),
 that will be celebrated in Granada, Spain, November 22 - 23, 2023, at the
 Palacio de Congresos.
 
 ## Event Highlights
 - 📆 Date: November 22nd - 23rd, 2023
-- 📫 Submission deadline:  November 5th
+- 📫 Submission deadline:  November 6th
 - 🔆 Notification of acceptance: November, 10th
 - 📌 Location: Circular Zone at the Palacio de Congresos de Granada, Granada, Andalucía, Spain
 - 📊 Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
