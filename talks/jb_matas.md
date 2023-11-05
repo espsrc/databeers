@@ -10,7 +10,7 @@ Jaime B. Matas-Bustos, University of Granada.
 
 ## Abstract
 
-The application of artificial intelligence (AI) within elite soccer refers to the use of AI methodologies in the context of professional high-level soccer. It encompasses various areas and applications, including the analysis of performance data, player performance, injury prediction or strategic and tactical decision-making. The presentation emphasizes responsible AI use and provides valuable insights for companies seeking to harness AI's potential in non-AI-specific contexts. The presentation will primarily highlight research findings related to the performance of soccer players and provide insights into injury prevention strategies.
+The application of artificial intelligence (AI) within elite soccer refers to the use of AI methodologies in the context of professional high-level soccer. It encompasses various areas and applications, including the analysis of performance data, player performance, injury prediction or strategic and tactical decision-making. The presentation will primarily highlight research findings related to the performance of soccer players and provide insights into injury prevention strategies.
 
 ## Resumen
 
