@@ -19,7 +19,12 @@ In terms of data (Big Big Data), we will use available data from Arecibo and Ver
 
 ## References
 
+- https://www.sciencedirect.com/science/article/pii/S1387647306002892
+- https://iopscience.iop.org/article/10.3847/1538-4357/ac5ea0/pdf
+- VLA: https://en.wikipedia.org/wiki/Very_Large_Array
+- SKA and SKAO: https://www.skao.int/
+- MeerKAT: http://mgcls.sarao.ac.za/
+- Apertif: https://www.astron.nl/telescopes/wsrt-apertif/
 
-## Extra material
 
 
