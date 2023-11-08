@@ -14,12 +14,20 @@ el Palacio de Congresos.
 
 ## Eventos destacados
 - 📆 Fecha: 22 y 23 de noviembre de 2023
-- 📫 Fecha límite de presentación de propuestas: 6 de noviembre
+- 📫 Fecha límite de presentación de propuestas: 9 de noviembre
 - 🔆 Notificación de aceptación: 10 de noviembre
 - 📌 Lugar: Zona circular del Palacio de Congresos de Granada, Granada, Andalucía, España.
 - 📊 Formato de presentación: 10 minutos de una charla impresionante + 5 minutos para preguntas.
-- ⏳ Horario del evento: 12-2pm y 4-6pm (TBC)
+- ⏳ Horario del evento: 12:00-14:00h y 16:00-18:00h
 - ⚙️ [Repositorio del evento](https://github.com/espsrc/databeers)
+
+## Inscripciones
+Registrate para asistir! 
+El evento de DataBeers es parte del I Congreso de IA de Andalucía. Formaliza tu registro al congreso [aquí](https://event.meetmaps.com/7368549937/es/registration) 
+También te pedimos que te registres específicamente al evento de DataBeersGRX [aquí](https://www.tickettailor.com/events/databeersgranada/1025124)
+
+## Agenda provisional
+TBC 
 
 ## Convocatoria de propuestas para presentar en DataBeers
 
@@ -66,7 +74,7 @@ Habrá un certificado de asistencia/presentación para los asistentes al evento 
 
 ## Fechas importantes
 
-- Fecha límite de presentación de resúmenes: 5 de noviembre.
+- Fecha límite de presentación de resúmenes: 9 de noviembre.
 - Notificación de aceptación: 10 de noviembre.
 
 ## ¡Te esperamos!
@@ -105,12 +113,20 @@ Palacio de Congresos.
 
 ## Event Highlights
 - 📆 Date: November 22nd - 23rd, 2023
-- 📫 Submission deadline:  November 6th
+- 📫 Submission deadline:  November 9th
 - 🔆 Notification of acceptance: November, 10th
 - 📌 Location: Circular Zone at the Palacio de Congresos de Granada, Granada, Andalucía, Spain
 - 📊 Presentation Format: 10-minute of a awesome talk + 5 minutes for questions
-- ⏳  Hours of the event: 12-2pm and 4-6pm (TBC)
+- ⏳  Hours of the event: 12-2pm and 4-6pm 
 - ⚙️ [Event Repository](https://github.com/espsrc/databeers)
+
+## Registration
+Register your attendance! 
+The DataBeers event is part of the I Congreso de IA de Andalucía. Register to the I Congreso de IA de Andalucía [here](https://event.meetmaps.com/7368549937/es/registration) 
+We also ask you to register in particular to the DataBeers event [here](https://www.tickettailor.com/events/databeersgranada/1025124)
+
+## Preliminary agenda 
+TBC 
 
 ## Call for Abstracts
 
@@ -150,7 +166,7 @@ A certificate of attendance/presentation will be available for those attending t
 
 ## Important Dates
 
-- Abstract Submission Deadline: November, 5th.
+- Abstract Submission Deadline: November, 9th.
 - Notification of Acceptance: November, 10th.
 
 ##  We look forward to seeing you!
