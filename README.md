@@ -23,8 +23,10 @@ el Palacio de Congresos.
 
 ## Inscripciones
 Registrate para asistir! 
-El evento de DataBeers es parte del I Congreso de IA de Andalucía. Formaliza tu registro al congreso [aquí](https://event.meetmaps.com/7368549937/es/registration) 
-También te pedimos que te registres específicamente al evento de DataBeersGRX [aquí](https://www.tickettailor.com/events/databeersgranada/1025124)
+
+El evento de DataBeers es parte del I Congreso de IA de Andalucía. Formaliza tu registro al congreso [aquí](https://event.meetmaps.com/7368549937/es/registration). 
+
+También te pedimos que te registres específicamente al evento de DataBeersGRX [aquí](https://www.tickettailor.com/events/databeersgranada/1025124).
 
 ## Agenda provisional
 TBC 
@@ -122,8 +124,10 @@ Palacio de Congresos.
 
 ## Registration
 Register your attendance! 
-The DataBeers event is part of the I Congreso de IA de Andalucía. Register to the I Congreso de IA de Andalucía [here](https://event.meetmaps.com/7368549937/es/registration) 
-We also ask you to register in particular to the DataBeers event [here](https://www.tickettailor.com/events/databeersgranada/1025124)
+
+The DataBeers event is part of the I Congreso de IA de Andalucía. Register to the I Congreso de IA de Andalucía [here](https://event.meetmaps.com/7368549937/es/registration).
+
+We also ask you to register in particular to the DataBeers event [here](https://www.tickettailor.com/events/databeersgranada/1025124).
 
 ## Preliminary agenda 
 TBC 
