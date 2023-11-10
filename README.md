@@ -29,7 +29,32 @@ El evento de DataBeers es parte del I Congreso de IA de Andalucía. Formaliza tu
 También te pedimos que te registres específicamente al evento de DataBeersGRX [aquí](https://www.tickettailor.com/events/databeersgranada/1025124).
 
 ## Agenda provisional
-TBC 
+
+### Sesión 1. Miércoles de 12:00h a 14:00h 
+- AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Antonio Gámiz Delgado, Badger Maps (TBC)
+- ¿Qué piensan los profesionales de la educación sobre el uso de herramientas de IA como ChatGPT en el aula: es una cuestión de ética docente? Emilia Martos Sánchez, Junta de Andalucía
+- IA Generativa: Creando la APP del Concurso de Méritos de Andalucía en "cuatro ratos". Francisco Guerrero Aranda, Junta de Andalucía
+- Neutral hydrogen profile classification using Convolutional Neural Networks. Manuel Parra-Royón, IAA-CSIC
+
+### Sesión 2. Miércoles de 16:00h a 18:00h
+- Neural networks discovering the origin of the Universe. Ixaka Labadie García, IAA-CSIC
+- Application of Artificial Intelligence (AI) in Elite Soccer, Jaime B. Matas-Bustos, University of Granada
+- Videojuegos - Un campo fascinante para la Inteligencia Artificial. Pablo García Sánchez, Universidad de Granada
+- Charla 4 TBC  
+
+### Sesión 3. Jueves de 12:00h a 14:00h 
+- El Papel del Machine Learning en un mayor entendimiento de la estructura y evolución estelares, así como los sistemas planetarios que las alberga. Maria Ángeles Mendoza Pérez, IAA-CSIC
+- Can AI help reduce road accidents? Manuel Martín Salvador, Blink Technologies
+- Using AI techniques to create hyper realistic digital twins. Manuel Rodrigo Cabello Malagón Manuel Rodrigo Cabello Malagón 
+- Using NLP, Emotions and Explainability for Detecting Depression. Santiago González Silot, Universidad de Jaén (TBC)
+
+### Sesión 4. Jueves de 16:00h a 18:00h 
+- Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group (TBC)
+- Con paciencia y saliva, resolvió el problema computacional la hormiga. Antonio Mora, Universidad de Granada (TBC)
+- Charla 3 (TBC)
+- Los datos y las cervezas de DataBeers. JJ Merelo, Universidad de Granada 
+
+ 
 
 ## Convocatoria de propuestas para presentar en DataBeers
 
@@ -130,7 +155,30 @@ The DataBeers event is part of the I Congreso de IA de Andalucía. Register to t
 We also ask you to register in particular to the DataBeers event [here](https://www.tickettailor.com/events/databeersgranada/1025124).
 
 ## Preliminary agenda 
-TBC 
+### Session 1. Wednesday 12pm - 2pm 
+- AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Antonio Gámiz Delgado, Badger Maps (TBC)
+- ¿Qué piensan los profesionales de la educación sobre el uso de herramientas de IA como ChatGPT en el aula: es una cuestión de ética docente? Emilia Martos Sánchez, Junta de Andalucía
+- IA Generativa: Creando la APP del Concurso de Méritos de Andalucía en "cuatro ratos". Francisco Guerrero Aranda, Junta de Andalucía
+- Neutral hydrogen profile classification using Convolutional Neural Networks. Manuel Parra-Royón, IAA-CSIC
+
+### Session 2. Wednesday 4pm - 6pm 
+- Neural networks discovering the origin of the Universe. Ixaka Labadie García, IAA-CSIC
+- Application of Artificial Intelligence (AI) in Elite Soccer. Jaime B. Matas-Bustos, University of Granada
+- Videojuegos - Un campo fascinante para la Inteligencia Artificial. Pablo García Sánchez, Universidad de Granada
+- Charla 4 TBC  
+
+### Session 3. Thursday de 12pm - 2pm 
+- El Papel del Machine Learning en un mayor entendimiento de la estructura y evolución estelares, así como los sistemas planetarios que las alberga. Maria Ángeles Mendoza Pérez, IAA-CSIC
+- Can AI help reduce road accidents? Manuel Martín Salvador. Blink Technologies
+- Using AI techniques to create hyper realistic digital twins. Manuel Rodrigo Cabello Malagón Manuel Rodrigo Cabello Malagón 
+- Using NLP, Emotions and Explainability for Detecting Depression, Santiago González Silot. Universidad de Jaén (TBC)
+
+### Session 4. Thursday 4pm - 6pm 
+- Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group (TBC)
+- Con paciencia y saliva, resolvió el problema computacional la hormiga. Antonio Mora, Universidad de Granada (TBC)
+- Charla 3 (TBC)
+- Los datos y las cervezas de DataBeers. JJ Merelo, Universidad de Granada 
+
 
 ## Call for Abstracts
 
