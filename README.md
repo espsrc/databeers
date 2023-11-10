@@ -49,7 +49,7 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 - ¿Qué piensan los profesionales de la educación sobre el uso de herramientas de IA como ChatGPT en el aula: es una cuestión de ética docente? Emilia Martos Sánchez, Junta de Andalucía
 
 ### Sesión 4. Jueves 23 de noviembre de 16:00h a 18:00h 
-- Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group (TBC)
+- Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group
 - Con paciencia y saliva, resolvió el problema computacional la hormiga. Antonio Mora, Universidad de Granada (TBC)
 - Charla 3 (TBC)
 - Los datos y las cervezas de DataBeers. JJ Merelo, Universidad de Granada 
@@ -174,7 +174,7 @@ We also ask you to register in particular to the DataBeers event [here](https://
 - ¿Qué piensan los profesionales de la educación sobre el uso de herramientas de IA como ChatGPT en el aula: es una cuestión de ética docente? Emilia Martos Sánchez, Junta de Andalucía
 
 ### Session 4. Thursday 23rd November 4pm - 6pm 
-- Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group (TBC)
+- Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group
 - Con paciencia y saliva, resolvió el problema computacional la hormiga. Antonio Mora, Universidad de Granada (TBC)
 - Charla 3 (TBC)
 - Los datos y las cervezas de DataBeers. JJ Merelo, Universidad de Granada 
