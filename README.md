@@ -31,10 +31,10 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 ## Agenda provisional
 
 ### Sesión 1. Miércoles 22 de noviembre de 12:00h a 14:00h 
-- AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Antonio Gámiz Delgado, Badger Maps (TBC)
-- Using AI techniques to create hyper realistic digital twins. Manuel Rodrigo Cabello Malagón, Plain Concepts - MVP Artitificial Intelligence
+- AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Ángel Fernández, Badger Maps
 - IA Generativa: Creando la APP del Concurso de Méritos de Andalucía en "cuatro ratos". Francisco Guerrero Aranda, Junta de Andalucía
 - Neutral hydrogen profile classification using Convolutional Neural Networks. Manuel Parra-Royón, IAA-CSIC
+- Charla 4 TBC
 
 ### Sesión 2. Miércoles 22 de noviembre de 16:00h a 18:00h
 - Neural networks discovering the origin of the Universe. Ixaka Labadie García, IAA-CSIC
@@ -43,10 +43,10 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 - Charla 4 TBC  
 
 ### Sesión 3. Jueves 23 de noviembre de 12:00h a 14:00h 
-- El Papel del Machine Learning en un mayor entendimiento de la estructura y evolución estelares, así como los sistemas planetarios que las alberga. Maria Ángeles Mendoza Pérez, IAA-CSIC
+- El Papel del Machine Learning en un mayor entendimiento en cuestiones clave del campo de la Astrofísica. Maria Ángeles Mendoza Pérez, IAA-CSIC
 - Can AI help reduce road accidents? Manuel Martín Salvador, Blink Technologies
 - ¿Qué piensan los profesionales de la educación sobre el uso de herramientas de IA como ChatGPT en el aula: es una cuestión de ética docente? Emilia Martos Sánchez, Junta de Andalucía
-- Charla 4 TBC 
+- Using AI techniques to create hyper realistic digital twins. Manuel Rodrigo Cabello Malagón, Plain Concepts - MVP Artitificial Intelligence
 
 ### Sesión 4. Jueves 23 de noviembre de 16:00h a 18:00h 
 - Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group
@@ -156,10 +156,10 @@ We also ask you to register in particular to the DataBeers event [here](https://
 
 ## Preliminary agenda 
 ### Session 1. Wednesday 22nd November 12pm - 2pm 
-- AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Antonio Gámiz Delgado, Badger Maps (TBC)
-- Using AI techniques to create hyper realistic digital twins. Manuel Rodrigo Cabello Malagón, Plain Concepts - MVP Artitificial Intelligence
+- AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Ángel Fernández, Badger Maps
 - IA Generativa: Creando la APP del Concurso de Méritos de Andalucía en "cuatro ratos". Francisco Guerrero Aranda, Junta de Andalucía
 - Neutral hydrogen profile classification using Convolutional Neural Networks. Manuel Parra-Royón, IAA-CSIC
+- Charla 4 TBC
 
 ### Session 2. Wednesday 22nd November 4pm - 6pm 
 - Neural networks discovering the origin of the Universe. Ixaka Labadie García, IAA-CSIC
@@ -168,10 +168,10 @@ We also ask you to register in particular to the DataBeers event [here](https://
 - Charla 4 TBC  
 
 ### Session 3. Thursday 23rd November de 12pm - 2pm 
-- El Papel del Machine Learning en un mayor entendimiento de la estructura y evolución estelares, así como los sistemas planetarios que las alberga. Maria Ángeles Mendoza Pérez, IAA-CSIC
+- El Papel del Machine Learning en un mayor entendimiento en cuestiones clave del campo de la Astrofísica. Maria Ángeles Mendoza Pérez, IAA-CSIC
 - Can AI help reduce road accidents? Manuel Martín Salvador, Blink Technologies
 - ¿Qué piensan los profesionales de la educación sobre el uso de herramientas de IA como ChatGPT en el aula: es una cuestión de ética docente? Emilia Martos Sánchez, Junta de Andalucía
-- Charla 4 TBC
+- Using AI techniques to create hyper realistic digital twins. Manuel Rodrigo Cabello Malagón, Plain Concepts - MVP Artitificial Intelligence
 
 ### Session 4. Thursday 23rd November 4pm - 6pm 
 - Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group
