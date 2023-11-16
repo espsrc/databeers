@@ -1,3 +1,6 @@
+<img width="1163" alt="image" src="https://github.com/espsrc/databeers/assets/7033451/5240bbe5-c542-4b14-9930-5786cc6d5cc1">
+
+
 [🇪🇸 Versión en Castellano](#cfp---evento-databeers---1a-conferencia-sobre-inteligencia-artificial-de-andaluc%C3%ADa-%EF%B8%8F-granada-espa%C3%B1a) [🇬🇧 English version](#cfp---databeers-event---1st-ai-conference-andaluc%C3%ADa-%EF%B8%8F-granada-spain)  🔗 [https://espsrc.github.io/databeers/](https://espsrc.github.io/databeers/)
 
 # CFP - Evento DataBeers - 1a Conferencia sobre Inteligencia Artificial de Andalucía ❤️ Granada, España
