@@ -31,7 +31,7 @@ El evento de DataBeers es parte del I Congreso de IA de Andalucía. Formaliza tu
 
 También te pedimos que te registres específicamente al evento de DataBeersGRX [aquí](https://www.tickettailor.com/events/databeersgranada/1025124).
 
-## Agenda provisional
+## Agenda
 
 ### Sesión 1. Miércoles 22 de noviembre de 12:00h a 14:00h 
 - AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Ángel Fernández, Badger Maps
@@ -53,7 +53,7 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 
 ### Sesión 4. Jueves 23 de noviembre de 16:00h a 18:00h 
 - Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group
-- Con paciencia y saliva, resolvió el problema computacional la hormiga. Antonio Mora, Universidad de Granada (TBC)
+- Con paciencia y saliva, resolvió el problema computacional la hormiga. Antonio Mora, Universidad de Granada
 - Using NLP, Emotions and Explainability for Detecting Depression. Santiago González Silot, Universidad de Jaén
 - Los datos y las cervezas de DataBeers. JJ Merelo, Universidad de Granada 
 
@@ -157,7 +157,7 @@ The DataBeers event is part of the I Congreso de IA de Andalucía. Register to t
 
 We also ask you to register in particular to the DataBeers event [here](https://www.tickettailor.com/events/databeersgranada/1025124).
 
-## Preliminary agenda 
+## Agenda 
 ### Session 1. Wednesday 22nd November 12pm - 2pm 
 - AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Ángel Fernández, Badger Maps
 - IA Generativa: Creando la APP del Concurso de Méritos de Andalucía en "cuatro ratos". Francisco Guerrero Aranda, Junta de Andalucía
@@ -178,7 +178,7 @@ We also ask you to register in particular to the DataBeers event [here](https://
 
 ### Session 4. Thursday 23rd November 4pm - 6pm 
 - Beyond the Black Box: The Promise of SHAP in AI Interpretability. Sergio Marco Chapapría, Verne Technology Group
-- Con paciencia y saliva, resolvió el problema computacional la hormiga. Antonio Mora, Universidad de Granada (TBC)
+- Con paciencia y saliva, resolvió el problema computacional la hormiga. Antonio Mora, Universidad de Granada
 - Using NLP, Emotions and Explainability for Detecting Depression, Santiago González Silot. Universidad de Jaén
 - Los datos y las cervezas de DataBeers. JJ Merelo, Universidad de Granada 
 
