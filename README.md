@@ -40,7 +40,7 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 - Neural networks discovering the origin of the Universe. Ixaka Labadie García, IAA-CSIC
 - Application of Artificial Intelligence (AI) in Elite Soccer, Jaime B. Matas-Bustos, University of Granada
 - Videojuegos - Un campo fascinante para la Inteligencia Artificial. Pablo García Sánchez, Universidad de Granada
-- Charla 4 TBC  
+- Gaia-X y Blockchain: construyendo espacios de datos confiables. Juan Manuel Muñoz Domínguez, Kolokium Blockchain Technologies  
 
 ### Sesión 3. Jueves 23 de noviembre de 12:00h a 14:00h 
 - El Papel del Machine Learning en un mayor entendimiento en cuestiones clave del campo de la Astrofísica. Maria Ángeles Mendoza Pérez, IAA-CSIC
@@ -165,7 +165,7 @@ We also ask you to register in particular to the DataBeers event [here](https://
 - Neural networks discovering the origin of the Universe. Ixaka Labadie García, IAA-CSIC
 - Application of Artificial Intelligence (AI) in Elite Soccer. Jaime B. Matas-Bustos, University of Granada
 - Videojuegos - Un campo fascinante para la Inteligencia Artificial. Pablo García Sánchez, Universidad de Granada
-- Charla 4 TBC  
+- Gaia-X y Blockchain: construyendo espacios de datos confiables. Juan Manuel Muñoz Domínguez, Kolokium Blockchain Technologies
 
 ### Session 3. Thursday 23rd November de 12pm - 2pm 
 - El Papel del Machine Learning en un mayor entendimiento en cuestiones clave del campo de la Astrofísica. Maria Ángeles Mendoza Pérez, IAA-CSIC
