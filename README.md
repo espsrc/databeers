@@ -37,7 +37,7 @@ También te pedimos que te registres específicamente al evento de DataBeersGRX 
 - AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Ángel Fernández, Badger Maps
 - IA Generativa: Creando la APP del Concurso de Méritos de Andalucía en "cuatro ratos". Francisco Guerrero Aranda, Junta de Andalucía
 - Neutral hydrogen profile classification using Convolutional Neural Networks. Manuel Parra-Royón, IAA-CSIC
-- Charla 4 TBC
+- La importancia de la preparación y calidad de los datos para abordar la optimización de negocios a través de iniciativas de inteligencia artificial. Javier Paya Aguirre, CIMT Data sl
 
 ### Sesión 2. Miércoles 22 de noviembre de 16:00h a 18:00h
 - Neural networks discovering the origin of the Universe. Ixaka Labadie García, IAA-CSIC
@@ -162,7 +162,7 @@ We also ask you to register in particular to the DataBeers event [here](https://
 - AI Empowering Everyday Operations: A Non-AI-Focused Technological Company's Success Story. Ángel Fernández, Badger Maps
 - IA Generativa: Creando la APP del Concurso de Méritos de Andalucía en "cuatro ratos". Francisco Guerrero Aranda, Junta de Andalucía
 - Neutral hydrogen profile classification using Convolutional Neural Networks. Manuel Parra-Royón, IAA-CSIC
-- Charla 4 TBC
+- La importancia de la preparación y calidad de los datos para abordar la optimización de negocios a través de iniciativas de inteligencia artificial. Javier Paya Aguirre, CIMT Data sl
 
 ### Session 2. Wednesday 22nd November 4pm - 6pm 
 - Neural networks discovering the origin of the Universe. Ixaka Labadie García, IAA-CSIC
